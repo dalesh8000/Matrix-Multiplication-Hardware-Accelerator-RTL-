@@ -1,0 +1,2 @@
+# Matrix-Multiplication-Hardware-Accelerator-RTL-
+The goal of this project is to design a high-performance RTL-based matrix multiplication accelerator using a 4×4 systolic array architecture. The objective is to create a pipelined MAC datapath, ensure efficient dataflow between Processing Elements, and deliver correct matrix multiplication results with low latency using a minimal, clean RTL design
