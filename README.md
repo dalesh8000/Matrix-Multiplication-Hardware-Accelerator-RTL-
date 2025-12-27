@@ -1,4 +1,4 @@
-# AXI-Stream Based Matrix Multiplication Hardware AcceleratorUsing 4×4 Systolic Array (RTL Design)
+# AXI-Stream Based Matrix Multiplication Hardware Accelerator using 4×4 Systolic Array (RTL Design)
 # Overview:
 This project implements a hardware accelerator for matrix multiplication using a 4×4 systolic array architecture, written entirely in SystemVerilog (RTL). The accelerator is integrated with AXI-Stream interfaces for input and output, making it suitable for SoC-level integration.The design focuses on clean datapath–control separation, pipelined MAC operations, and industry-standard AXI handshaking, making it an ideal RTL front-end design project.
 # Key Concepts Used
